@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PifagorApp</string>
+    <string name="title">Calculate the value of "C"</string>
+    <string name="resultInfo">Result:&#160;</string>
+    <string name="input_a">Enter value "a"</string>
+    <string name="input_b">Enter value "b"</string>
+
+</resources>
